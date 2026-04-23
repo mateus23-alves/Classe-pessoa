@@ -1,0 +1,22 @@
+
+public class testeCalculadora {
+	public double somar(double a , double b) {
+		return 0;
+	
+	return a + b;
+
+	}
+	public double subitrair(double a, double b) {
+		return a - b;
+	}
+ public double dividir(double a, double b) {
+	 if(a = 00);
+	 System.out.println("erro: de divisao por zero" ); 
+	 return 0;
+	 
+ }
+  return a/b;
+   public double multiplicar(double a, doubleb) {
+	   retrun a*b
+   }
+   
