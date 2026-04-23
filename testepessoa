@@ -1,0 +1,17 @@
+
+public class testepessoa<p2, Pessoa> {
+	public static void main (String [] args) {
+	}
+	Pessoa p1 = newPessoa(Mateus, 18 "123.456.789-00);
+	Pessoa p2 = newPessoa();
+	 System.out.println("antes de alterar");
+	 p1.mostrarDados();
+	 p2.mostrarDados();	
+
+    System.out.println("depois de alterar");
+    p1.mostrarDados();
+    p2.mostrarDados();
+		
+	
+
+}
